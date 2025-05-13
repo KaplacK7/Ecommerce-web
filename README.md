@@ -6,19 +6,19 @@ Para el Front-End:
 * npm run dev
 
 Para iniciar al Back-End:
-python manage.py runserver
+* python manage.py runserver
 
 #################################################################################
 
-RECORDAR INSTALAR LAS DEPENDENCIAS DEL PROYECTO!
+¡RECORDAR INSTALAR LAS DEPENDENCIAS DEL PROYECTO!
 
 ##################################################################################
 
 Ingresar el nombre de la Base de datos en XAMPP (o donde quieras cambiando la ruta)
-python manage.py migrate
-python manage.py makemigrations
+* python manage.py migrate
+* python manage.py makemigrations
 
 #################################################################################
 
 Crea el super usuario para vizualizar los usuarios usando:
-python manage.py createsuperuser
+* python manage.py createsuperuser
