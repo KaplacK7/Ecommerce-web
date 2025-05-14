@@ -22,3 +22,9 @@ Ingresar el nombre de la Base de datos en XAMPP (o donde quieras cambiando la ru
 
 Crea el super usuario para vizualizar los usuarios usando:
 * python manage.py createsuperuser
+
+#################################################################################
+
+ACTIVAR EL ENTORNO VIRTUAL:
+
+.\venv\Scripts\Activate
